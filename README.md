@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lavanya2215
-- 👀 I’m interested in designing Web Application and Mobile Application
-- 🌱 I’m currently learning to create News Letter
+
 
 
 <!---
